@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafa Ahamada Wijaya</h1>
-<h3 align="center">A passionate Android Developer from Semarang. I love to craft seamless and robust mobile application to deliver exceptional user experience and bring positive impact on user's lives.</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **CI/CD and Security in Android Development**
 
